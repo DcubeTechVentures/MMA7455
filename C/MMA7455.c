@@ -23,7 +23,6 @@ void main()
 	// Get I2C device, MMA7455 I2C address is 0x1D(29)
 	ioctl(file, I2C_SLAVE, 0x1D);
 
-	
 	// Select mode control register(0x16)
 	// Measurement mode, +/- 8g(0x01)
 	char config[2] = {0};
