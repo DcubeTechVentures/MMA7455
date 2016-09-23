@@ -1,8 +1,8 @@
 # Distributed with a free-will license.
 # Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 # MMA7455L
-# This code is designed to work with the MMA7455L_I2CS I2C Mini Module available from ControlEverything.com.
-# https://www.controleverything.com/content/Accelorometer?sku=MMA7455_I2CS#tabs-0-product_tabset-2
+# This code is designed to work with the MMA7455L_I2CS I2C Mini Module available from dcubestore.com
+# http://dcubestore.com/product/mma7455l-3-axis-low-g-digital-output-accelerometer-i%C2%B2c-mini-module/
 
 import smbus
 import time
