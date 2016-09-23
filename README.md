@@ -6,7 +6,7 @@ The MMA7455 device, provides digital acceleration for X, Y and Z axis
 
 This Device is available from ControlEverything.com [SKU: MMA7455_I2CS]
 
-https://www.controleverything.com/content/Accelorometer?sku=MMA7455_I2CS
+http://dcubestore.com/product/mma7455l-3-axis-low-g-digital-output-accelerometer-i%C2%B2c-mini-module/
 
 This Sample code can be used with Raspberry Pi, Arduino, Particle Photon, Beaglebone Black and Onion Omega.
 
