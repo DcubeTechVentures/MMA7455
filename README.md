@@ -4,7 +4,7 @@ MMA7455 3-Axis Accelerometer
 
 The MMA7455 device, provides digital acceleration for X, Y and Z axis
 
-This Device is available from ControlEverything.com [SKU: MMA7455_I2CS]
+This Device is available from DCUBE Store. [SKU: MMA7455_I2CS]
 
 http://dcubestore.com/product/mma7455l-3-axis-low-g-digital-output-accelerometer-i%C2%B2c-mini-module/
 
